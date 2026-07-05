@@ -1,0 +1,6 @@
+{
+  "name": "Circular Student Logo Designer",
+  "description": "A professional design tool for creating and customizing circular student account logos with live editing, dual templates, drag-and-drop customization, and high-resolution PNG download.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
